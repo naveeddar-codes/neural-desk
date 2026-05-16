@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&family=Story+Script&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-main-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+    background: #cccfe1;
+    
+
+}
+
+.logo-container{
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-container-raw{
+    width: 45px;
+    height: 28px;
+}
+
+.logo-container h1{
+    font-family: "Grape Nuts", sans-serif;
+    color: #152057;
+    margin: 0;
+    font-size: 34px;
+}
+
+h1 strong{
+    color: #2848e3;
+}
+
+
+#user-id-logo{
+    width: 30px;
+}

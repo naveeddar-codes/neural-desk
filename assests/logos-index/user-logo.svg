@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="canvas-clip">
+      <rect width="512" height="512" rx="256" ry="256"/>
+    </clipPath>
+  </defs>
+  <rect width="512" height="512" rx="256" ry="256" fill="#FFFFFF" stroke="#ABA6A6" stroke-width="16" clip-path="url(#canvas-clip)"/>
+  <g clip-path="url(#canvas-clip)">
+    <g transform="rotate(0, 256, 256)">
+      
+      <g transform="translate(31 11) scale(19.208333333333332 19.208333333333332) translate(0 0)"><path fill="#8F8888" d="M12 2a5 5 0 1 1-5 5l.005-.217A5 5 0 0 1 12 2m2 12a5 5 0 0 1 5 5v1a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-1a5 5 0 0 1 5-5z"/></g>
+    </g>
+  </g>
+</svg>
